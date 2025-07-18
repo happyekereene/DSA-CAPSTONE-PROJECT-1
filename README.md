@@ -59,3 +59,71 @@ EDA involved the exploration of the data to answer some questions about the data
 
 
 
+
+
+
+
+My team and I utilized Excel to develop calculated columns, detailed pivot tables, which provided key insights into the data. Building on those insights, we generated an interactive and visually engaging dashboard to effectively communicate our findings. 
+
+The dashboard consists of:
+
+- **Key Performance Indicators (KPIs)**
+1. Number of Products: 1,351
+2. Average of Rating: 4.10
+3. Average of Discount Percentage: 48%
+4. Total Rating Count: 26,742,111
+   
+- **Slicer**
+1. Price Range Bucket
+   
+- **Key Insights (Charts)**
+1. Category by Discount Percentage 
+2. Category Based on Number of Products 
+3. Category By  Reviews 
+4. Products Based on Ratings
+5. Category by Actual Price and Discounted Price
+6. Products with the Most Reviews
+7. Products with 50% and above Discount Percentage 
+8. Distribution of Product Ratings
+9. Category Based on Potential Revenue
+10. Product Distribution by Price Range Bucket
+11. Rating by Discount Percentage
+12. Products with Less Than 1000 Reviews
+13. Categories with Highest Discounts
+14. Top 5 Products by Rating and Number of Reviews
+
+### Data Interpretation or Analysis in Details
+---
+1. **Category by Discount Percentage:** 
+The dashboard reveals that the average discount percentage by product category is 48%. Categories like Computers & Accessories, Electronics, and Home & Kitchen receive the highest average discounts with some exceeding 70%. These likely reflect price-sensitive segments or aggressive marketing tactics.
+2. **Category Based on Number of Products:**
+From the bar chart, categories such as Home & Kitchen, Electronics, and Computers contain the highest product volumes, indicating high saturation and competition.
+3. **Category By  Reviews:**
+The bar chart shows Home & Kitchen leading in customer review volume, followed by Electronics. This suggests strong user engagement and potentially high customer interest in these categories.
+4. **Products Based on Ratings:**
+The graph shows products with IDs B0BQRJ3C47, B09ZHCJDP1 and B0BP7XLX48 topping with ratings 5.0. These are products are top performers in quality and customer satisfaction. They’re ideal for feature promotions, upselling, or influencer marketing.
+5. **Category by Actual Price and Discounted Price:**
+In the line chart comparison, there's a notable gap between average actual and discounted prices across most categories. Categories like Home & Kitchen Appliances and Computer & Accessories show substantial gaps which are high list prices but aggressive discounting.
+6. **Products with the Most Reviews:**
+The product with the most review is B07KSMBL2H having 853945 rating counts, followed by B014I8SSD0 and B014I8SX4Y with 426973 and 426973 rating counts respectively. These are the strong customer favorites and possibly bestsellers. 
+7. **Products with 50% and above Discount Percentage:**
+The bar chart shows around 751 products meet this criterion. Most are from highly competitive categories indicating a potential sign of market saturation or price war.
+8. **Distribution of Product Ratings:**
+The horizontal bar chart reveals a healthy cluster of products rated between 4.0 and 4.4, suggesting generally positive customer feedback. Few fall below 3.5, indicating good product satisfaction overall.
+9. **Category Based on Potential Revenue:**
+The bar chart shows that Electronics, Computer & Accessories and Home & Kitchen dominates in potential revenue. This suggests where the company can focus its marketing and inventory investment.
+10. **Product Distribution by Price Range Bucket:**
+The doughnut chart shows that the majority of products fall under the ₹500 price range, with smaller portions within ₹200-₹500 and above ₹200. This ₹500 range dominance indicates a price sweet spot for customers.
+11. **Rating by Discount Percentage:**
+From the bar chart, there’s a visible decline in product rating as the discount increases. This trend suggests that high discounts may be associated with lower product quality or lower customer satisfaction.
+12. **Products with Less Than 1000 Reviews:**
+The bar chart confirms that a large number of products fall below the 1,000 review mark, with some having less than 100. These products may be new, poorly marketed, or underperforming in terms of visibility.
+13. **Categories with Highest Discounts:**
+The chart shows Computer Accessories, Electronics, and Home & Kitchen as top categories for heavy discounting, many with over 70% average discounts.
+14. **Top 5 Products by Rating and Number of Reviews:**
+From the pie chart, B07KSMBL2H, B014I8SX4Y, B014I8SSD0, B01DEWVZ2C, B07GQD4K6L, B07GPXXNNG are the top products based on amount of reviews with an average rating of 4.25. These products not only have high ratings but also massive review counts which makes them ideal for promotion and brand trust.
+
+
+
+
+
