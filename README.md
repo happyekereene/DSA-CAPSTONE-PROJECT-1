@@ -2,6 +2,26 @@
 
 ### Project Title: Amazon Product Rating and Review
 
+[Project Overview](project-overview)
+
+[Data Source](data-source)
+
+[Data Description or Characteristics](data-description-or-characteristics)
+
+[Tools Used](tools-used)
+
+[Data Cleaning and Preparation](data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](exploratory-data-analysis)
+
+[Data Analysis and Visualization](data-analysis-and-visualization)
+
+[Data Interpretation or Analysis in Details](data-interpretation-or-analysis-in-details)
+
+[Recommendations](recommendations)
+
+[Summary](summary)
+
 ### Project Overview
 ---
 The purpose of this project is to analyze product performance based on customer ratings and reviews from an e-commerce dataset (Amazon). This analysis helps identify which products perform best, uncover customer preferences, and reveal how pricing and discount strategies influence product ratings and engagement which my team and I at **RetailTech Insights** leveraged to generate actionable insights for product improvement, marketing strategy, and customer engagement.
