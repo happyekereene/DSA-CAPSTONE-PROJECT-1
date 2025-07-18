@@ -6,21 +6,21 @@
 
 [Data Source](#data-source)
 
-[Data Description or Characteristics](data-description-or-characteristics)
+[Data Description or Characteristics](#data-description-or-characteristics)
 
-[Tools Used](tools-used)
+[Tools Used](#tools-used)
 
-[Data Cleaning and Preparation](data-cleaning-and-preparation)
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
 
-[Exploratory Data Analysis](exploratory-data-analysis)
+[Exploratory Data Analysis](#exploratory-data-analysis)
 
-[Data Analysis and Visualization](data-analysis-and-visualization)
+[Data Analysis and Visualization](#data-analysis-and-visualization)
 
-[Data Interpretation or Analysis in Details](data-interpretation-or-analysis-in-details)
+[Data Interpretation or Analysis in Details](#data-interpretation-or-analysis-in-details)
 
-[Recommendations](recommendations)
+[Recommendations](#recommendations)
 
-[Summary](summary)
+[Summary](#summary)
 
 ### Project Overview
 ---
@@ -33,7 +33,7 @@ The Amazon case study dataset is an Excel file primarily sourced from DSA Data A
 ### Data Description or Characteristics
 ---
 -Datasets
-Raw Dataset (Amazon case study.xlsx) [view](https://cdn.inst-fs-iad-prod.inscloudgate.net/dbf6d933-81b6-4875-87e8-a8ec97f1fe13/Amazon%20case%20study.xlsx?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCIsImtpZCI6ImNkbiJ9.eyJyZXNvdXJjZSI6Ii9kYmY2ZDkzMy04MWI2LTQ4NzUtODdlOC1hOGVjOTdmMWZlMTMvQW1hem9uJTIwY2FzZSUyMHN0dWR5Lnhsc3giLCJ0ZW5hbnQiOiJjYW52YXMiLCJ1c2VyX2lkIjoiNzAwMDAxMTY4NTYwMDkiLCJpYXQiOjE3NTI1OTE4ODQsImV4cCI6MTc1MjY3ODI4NH0.sOF03HSFQ8SL2djiO4SZsIcfz_QuJ9JiIUu6Z_QBl5tQpLLS-9fTBj-RWADMxWiC55KFbKuJaNQRxByuC-aKPQ&download=1&content_type=application%2Fvnd.openxmlformats-officedocument.spreadsheetml.sheet).
+Raw Dataset (Amazon case study.xlsx) (https://cdn.inst-fs-iad-prod.inscloudgate.net/dbf6d933-81b6-4875-87e8-a8ec97f1fe13/Amazon%20case%20study.xlsx?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCIsImtpZCI6ImNkbiJ9.eyJyZXNvdXJjZSI6Ii9kYmY2ZDkzMy04MWI2LTQ4NzUtODdlOC1hOGVjOTdmMWZlMTMvQW1hem9uJTIwY2FzZSUyMHN0dWR5Lnhsc3giLCJ0ZW5hbnQiOiJjYW52YXMiLCJ1c2VyX2lkIjoiNzAwMDAxMTY4NTYwMDkiLCJpYXQiOjE3NTI1OTE4ODQsImV4cCI6MTc1MjY3ODI4NH0.sOF03HSFQ8SL2djiO4SZsIcfz_QuJ9JiIUu6Z_QBl5tQpLLS-9fTBj-RWADMxWiC55KFbKuJaNQRxByuC-aKPQ&download=1&content_type=application%2Fvnd.openxmlformats-officedocument.spreadsheetml.sheet).
 It contains information scraped from Amazon product pages, including:
 1. Product details: name, category, price, discount, and ratings
 2. Customer engagement: user reviews, titles, and content
