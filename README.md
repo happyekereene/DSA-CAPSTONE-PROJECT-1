@@ -78,9 +78,10 @@ EDA involved the exploration of the data to answer some questions about the data
 -Excel Dashboard (AMAZON PRODUCT RATING AND REVIEW) 
 
 
+<img width="470" height="370" alt="Excel Dashboard 1" src="https://github.com/user-attachments/assets/183a5cf4-5d56-4b3f-a306-94536917b79c" />
 
 
-
+<img width="471" height="371" alt="Excel Dashboard 2" src="https://github.com/user-attachments/assets/a32269d7-d127-434c-967f-eb1435c63843" />
 
 
 My team and I utilized Excel to develop calculated columns, detailed pivot tables, which provided key insights into the data. Building on those insights, we generated an interactive and visually engaging dashboard to effectively communicate our findings. 
