@@ -39,7 +39,6 @@ It contains information scraped from Amazon product pages, including:
 2. Customer engagement: user reviews, titles, and content
 3. Each row represents a unique product, with aggregated reviewer data stored as comma-separated values
 
-
 ### Tools Used
 ---
 - Microsoft Excel [Download Here](https://www.microsoft.com)
