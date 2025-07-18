@@ -2,9 +2,9 @@
 
 ### Project Title: Amazon Product Rating and Review
 
-[Project Overview](project-overview)
+[Project Overview](#project-overview)
 
-[Data Source](data-source)
+[Data Source](#data-source)
 
 [Data Description or Characteristics](data-description-or-characteristics)
 
